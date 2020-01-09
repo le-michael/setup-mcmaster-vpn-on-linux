@@ -23,7 +23,7 @@ cd anyconnect-linux64-4.6.04056/vpn
 ./vpn_install.sh
 ```
 
-## 4. Connect to McMaster Servers
+## 4. Connect to the VPN Server
 
 ### Using Terminal
 
@@ -33,7 +33,7 @@ Once the installation is complete you can run the vpn binary in the vpn folder.
 ./vpn
 ```
 
-This will open the anyconnect CLI. Run the following command in the CLI to connect to the McMaster servers 
+This will open the anyconnect CLI. Run the following command in the CLI to connect to the VPN server.
 
 ```
 connect sslvpn.mcmaster.ca

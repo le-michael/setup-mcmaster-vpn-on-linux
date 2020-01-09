@@ -5,7 +5,7 @@
 Download the linux version of the vpn from the following website:
 https://www.mcmaster.ca/uts/network/vpn/
 
-## 2. Extract file
+## 2. Extract Files
 
 Once the download is complete you should have a file called `anyconnect-linux64-4.6.04056-predeploy-k9.tar.gz`. You will need
 to extract the file. Use the following command.
@@ -23,9 +23,9 @@ cd anyconnect-linux64-4.6.04056/vpn
 ./vpn_install.sh
 ```
 
-## 4. Connect to VPN
+## 4. Connect to McMaster Servers
 
-### Using terminal
+### Using Terminal
 
 Once the installation is complete you can run the vpn binary in the vpn folder.
 
@@ -42,7 +42,7 @@ connect sslvpn.mcmaster.ca
 Enter your credentials and you are now connected. You can disconnect by typing `disconnect` within the CLI.
 
 
-### Using ui
+### Using UI
 
 Once the installation is complete you can run the vpnui binary in the vpn folder. 
 

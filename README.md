@@ -16,7 +16,7 @@ This will extract the tar file into the current directory. Once complete you sho
 
 ## 3. Install VPN
 
-In the directory where you extracter the tar file `cd` into the vpn folder and run `vpn_install.sh`.
+In the directory where you extracted the tar file `cd` into the vpn folder and run `vpn_install.sh`.
 
 ```
 cd anyconnect-linux64-4.6.04056/vpn

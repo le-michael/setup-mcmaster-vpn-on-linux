@@ -27,10 +27,10 @@ cd anyconnect-linux64-4.6.04056/vpn
 
 ### Using Terminal
 
-Once the installation is complete you can run the vpn binary in the vpn folder.
+Once the installation is complete you can run the vpn binary in the vpn folder. Remember to sudo!!
 
 ```
-./vpn
+sudo ./vpn
 ```
 
 This will open the anyconnect CLI. Run the following command in the CLI to connect to the VPN server.
